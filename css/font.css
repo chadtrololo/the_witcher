@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Mason Chronicles';
+  src: url('Mason Chronicles.woff2') format('woff2'),
+      url('MasonChronicles.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MasonChronicles';
+  src: url('MasonChronicles.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
